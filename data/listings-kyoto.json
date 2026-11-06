@@ -1,0 +1,3624 @@
+{
+  "meta": {
+    "source": "https://monthly-kyoto.com/",
+    "sourceApi": "https://monthly-kyoto.com/wp-json/wp/v2/room",
+    "sources": [
+      {
+        "id": "kyoto",
+        "label": "マンスリー京都",
+        "url": "https://monthly-kyoto.com/",
+        "count": 41,
+        "uniqueCount": 41
+      }
+    ],
+    "scrapedAt": "2026-10-30T10:38:30.191Z",
+    "criteria": {
+      "prefecture": "kyoto",
+      "prefectureLabel": "京都府",
+      "maxPrice": 140000,
+      "minFloorPlan": "1R",
+      "includeOneRoom": true,
+      "checkIn": "2026-10-30",
+      "checkOut": "2026-12-25",
+      "nights": 56,
+      "maxMinStayDays": 56,
+      "includeLongMinStay": false
+    },
+    "apiTotal": 119,
+    "count": 41,
+    "buildingCount": 35
+  },
+  "listings": [
+    {
+      "id": "kyoto:6964",
+      "canonicalId": "kyoto:6964",
+      "source": "kyoto",
+      "sourceId": "6964",
+      "name": "グレース衣笠 105(喫煙可)",
+      "url": "https://monthly-kyoto.com/room/6964/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6964",
+          "name": "グレース衣笠 105(喫煙可)",
+          "url": "https://monthly-kyoto.com/room/6964/",
+          "price": 66000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:50:45"
+        }
+      ],
+      "price": 66000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 19,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/グレース衣笠.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/542789794.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1937166569.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/743191739.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/963412886.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/516462591.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/391225957.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1300847133.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1529083785.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1562178606.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "喫煙可",
+        "外国人可",
+        "3点ユニットバス",
+        "駐車場",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区衣笠氷室町53",
+      "lat": 35.04119908693155,
+      "lng": 135.72642266750336,
+      "buildingId": "kyoto:00107",
+      "buildingName": "グレース衣笠",
+      "buildingKind": "マンション",
+      "structure": "木造 2階建",
+      "constructionDate": "1988-01-01",
+      "accesses": [
+        {
+          "text": "市バス 桜木町停 徒歩13分",
+          "walkTime": 13
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:50:45",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6916",
+      "canonicalId": "kyoto:6916",
+      "source": "kyoto",
+      "sourceId": "6916",
+      "name": "二条ハイツ 302(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6916/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6916",
+          "name": "二条ハイツ 302(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6916/",
+          "price": 66000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:39:00"
+        }
+      ],
+      "price": 66000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 18,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-218-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1605799186.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1923950316.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/904910917.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1586133990.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1921076557.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1591164920.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1355195262.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1178695949.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/294208127.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区二条通東洞院西入仁王門町18",
+      "lat": 35.01345438907662,
+      "lng": 135.76038293650794,
+      "buildingId": "kyoto:00505",
+      "buildingName": "二条ハイツ(02タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 4階建",
+      "constructionDate": "1982-06-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 烏丸御池駅 徒歩6分",
+          "walkTime": 6
+        },
+        {
+          "text": "地下鉄東西線 烏丸御池駅 徒歩6分",
+          "walkTime": 6
+        },
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩6分",
+          "walkTime": 6
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:39:00",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6779",
+      "canonicalId": "kyoto:6779",
+      "source": "kyoto",
+      "sourceId": "6779",
+      "name": "カサデソーラ四条 103(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6779/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6779",
+          "name": "カサデソーラ四条 103(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6779/",
+          "price": 69000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:41:56"
+        }
+      ],
+      "price": 69000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 15,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/04/a2-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1601029354.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/917718227.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1487530382.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/379255788.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/144887879.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1348856177.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/558691558.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1287223518.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/カサデソーラ四条_403.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "コインランドリー",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市右京区西院坤町82",
+      "lat": 35.00258941530838,
+      "lng": 135.72654032383676,
+      "buildingId": "kyoto:00303",
+      "buildingName": "カサデソーラ四条",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1977-01-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 西院駅 徒歩7分",
+          "walkTime": 7
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:41:56",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6616",
+      "canonicalId": "kyoto:6616",
+      "source": "kyoto",
+      "sourceId": "6616",
+      "name": "ピュアー紙屋川 206(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6616/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6616",
+          "name": "ピュアー紙屋川 206(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6616/",
+          "price": 72000,
+          "initialCost": 0,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:32:38"
+        }
+      ],
+      "price": 72000,
+      "initialCost": 0,
+      "floorPlan": "1K",
+      "area": 18,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-136.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1439400452.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/787895810.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1533495738.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/997077205.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/830765954.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1116604051.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/669801021.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1837432908.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1370498092.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "駐輪場",
+        "宅配ボックス",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市上京区一条通御前通西入 三丁目西町22-4",
+      "lat": 35.02628430000001,
+      "lng": 135.7331301,
+      "buildingId": "kyoto:00403",
+      "buildingName": "ピュアー紙屋川",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1994-12-01",
+      "accesses": [
+        {
+          "text": "嵐電北野線 北野白梅町駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "JR嵯峨野線 円町駅 徒歩16分",
+          "walkTime": 16
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [
+        "期間限定】清掃料無料キャンペーン実施中！\r\n通常発生する清掃料が今だけ無料。\r\n初期費用を抑えたい方におすすめです。\r\nお得にご入居いただけるこの機会をお見逃しなく。\r\n※キャンペーンは予告なく終了する場合がございます。"
+      ],
+      "updatedAt": "2026-10-30T16:32:38",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6586",
+      "canonicalId": "kyoto:6586",
+      "source": "kyoto",
+      "sourceId": "6586",
+      "name": "ヴィラサンシルク西大路 304(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6586/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6586",
+          "name": "ヴィラサンシルク西大路 304(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6586/",
+          "price": 72000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:42:19"
+        }
+      ],
+      "price": 72000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 17.68,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/ヴィラサンシルク西大路.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1245026993.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/964889489.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/939555071.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/836825307.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1664582641.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2051701160.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1262350398.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1017984452.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1673572012.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "コインランドリー",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "駐輪場",
+        "宅配ボックス",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市右京区西院西今田町9番地3",
+      "lat": 35.00743819708145,
+      "lng": 135.7310036817766,
+      "buildingId": "kyoto:00308",
+      "buildingName": "ヴィラサンシルク西大路(04タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 5階建",
+      "constructionDate": "1988-04-01",
+      "accesses": [
+        {
+          "text": "嵐電嵐山本線 西大路三条駅 徒歩3分",
+          "walkTime": 3
+        },
+        {
+          "text": "阪急京都線 西院駅 徒歩7分",
+          "walkTime": 7
+        },
+        {
+          "text": "地下鉄東西線 西大路御池駅 徒歩8分",
+          "walkTime": 8
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:42:19",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6585",
+      "canonicalId": "kyoto:6585",
+      "source": "kyoto",
+      "sourceId": "6585",
+      "name": "ヴィラサンシルク西大路 506(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6585/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6585",
+          "name": "ヴィラサンシルク西大路 506(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6585/",
+          "price": 75000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:42:27"
+        }
+      ],
+      "price": 75000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 20.15,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/ヴィラサンシルク西大路-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/123007487.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/593039580.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/985845832.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/421446665.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/411962248.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1860187837.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1761657948.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1152704660.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/581201709.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "コインランドリー",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "駐輪場",
+        "宅配ボックス",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市右京区西院西今田町9番地3",
+      "lat": 35.0072479150744,
+      "lng": 135.73099578767042,
+      "buildingId": "kyoto:00308",
+      "buildingName": "ヴィラサンシルク西大路(06タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 5階建",
+      "constructionDate": "1988-04-01",
+      "accesses": [
+        {
+          "text": "嵐電嵐山本線 西大路三条駅 徒歩3分",
+          "walkTime": 3
+        },
+        {
+          "text": "阪急京都線 西院駅 徒歩7分",
+          "walkTime": 7
+        },
+        {
+          "text": "地下鉄東西線 西大路御池駅 徒歩8分",
+          "walkTime": 8
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:42:27",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6847",
+      "canonicalId": "kyoto:6847",
+      "source": "kyoto",
+      "sourceId": "6847",
+      "name": "平行マンション 106(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6847/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6847",
+          "name": "平行マンション 106(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6847/",
+          "price": 75000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:51:33"
+        }
+      ],
+      "price": 75000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 20,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/AI補正3.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1020299961.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1091317598.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/963640445.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1375603730.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1131396431.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/589996562.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1406782480.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2082539329.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2116170213-2.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "バス・トイレ別",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区鷹峯旧土居町4-27",
+      "lat": 35.04382549682352,
+      "lng": 135.73632806539536,
+      "buildingId": "kyoto:00116",
+      "buildingName": "平行マンション",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 3階建",
+      "constructionDate": "1997-01-01",
+      "accesses": [
+        {
+          "text": "市バス 佛教大学前停 徒歩4分",
+          "walkTime": 4
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:51:33",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6606",
+      "canonicalId": "kyoto:6606",
+      "source": "kyoto",
+      "sourceId": "6606",
+      "name": "ふらっとII番館 302(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6606/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6606",
+          "name": "ふらっとII番館 302(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6606/",
+          "price": 78000,
+          "initialCost": 0,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:58:33"
+        }
+      ],
+      "price": 78000,
+      "initialCost": 0,
+      "floorPlan": "1K",
+      "area": 27.9,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/２番館-1.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/538023905.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1288711396.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1425323230.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/892920698.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/417986361.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1550498508.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1691536133.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/597140703.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1391552909.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "3点ユニットバス",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区紫野西御所田町16-2",
+      "lat": 35.04050953054167,
+      "lng": 135.7504579424858,
+      "buildingId": "kyoto:00115",
+      "buildingName": "ふらっとII番館",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 6階建",
+      "constructionDate": "1989-04-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 北大路駅 徒歩11分",
+          "walkTime": 11
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:58:33",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6939",
+      "canonicalId": "kyoto:6939",
+      "source": "kyoto",
+      "sourceId": "6939",
+      "name": "ジュネス寺島 301(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6939/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6939",
+          "name": "ジュネス寺島 301(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6939/",
+          "price": 78000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:37:55"
+        }
+      ],
+      "price": 78000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 22.77,
+      "capacity": 1,
+      "maxPeople": 1,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/ジュネス.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/989821989.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/834749471.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1649783253.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1580194488.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1617641406.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/33539352.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/136761321.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/520363379.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1419512704.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "収納",
+        "エアコン",
+        "ガスコンロ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区東洞院通二条上ル壺屋町516-2",
+      "lat": 35.01400337493367,
+      "lng": 135.76079866749387,
+      "buildingId": "kyoto:00514",
+      "buildingName": "ジュネス寺島",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 4階建",
+      "constructionDate": "1987-08-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "地下鉄烏丸線 烏丸御池駅 徒歩5分",
+          "walkTime": 5
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:37:55",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6748",
+      "canonicalId": "kyoto:6748",
+      "source": "kyoto",
+      "sourceId": "6748",
+      "name": "モデラート丸太町201(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6748/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6748",
+          "name": "モデラート丸太町201(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6748/",
+          "price": 81000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:12:51"
+        }
+      ],
+      "price": 81000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 18,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-350.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1023414830.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/619356957.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1651001101.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2140461153.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/322286995.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1056733022.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1872611361.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/315710498.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/863859276.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市左京区丸太町通川端東入2筋目下る 東丸太町14番地15",
+      "lat": 35.017100440208786,
+      "lng": 135.774030475246,
+      "buildingId": "kyoto:00223",
+      "buildingName": "モデラート丸太町",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 3階建",
+      "constructionDate": "1993-05-01",
+      "accesses": [
+        {
+          "text": "京阪本線 神宮丸太町駅 徒歩3分",
+          "walkTime": 3
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:12:51",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6711",
+      "canonicalId": "kyoto:6711",
+      "source": "kyoto",
+      "sourceId": "6711",
+      "name": "タマミハイツ 203(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6711/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6711",
+          "name": "タマミハイツ 203(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6711/",
+          "price": 84000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:52:06"
+        }
+      ],
+      "price": 84000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 23.14,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/無題-4.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1947862513.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1222676038.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/57819903.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/128390576.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/721181542.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1866434055.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/977934506.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1663244443.jpg"
+      ],
+      "tags": [
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市下京区下二之宮町443",
+      "lat": 34.98963924931201,
+      "lng": 135.76651775767203,
+      "buildingId": "kyoto:00629",
+      "buildingName": "タマミハイツ",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 5階建",
+      "constructionDate": "1976-12-01",
+      "accesses": [
+        {
+          "text": "京阪電車本線 七条駅 徒歩2分",
+          "walkTime": 2
+        },
+        {
+          "text": "JR京都線 京都駅 徒歩15分",
+          "walkTime": 15
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:52:06",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6627",
+      "canonicalId": "kyoto:6627",
+      "source": "kyoto",
+      "sourceId": "6627",
+      "name": "レコルト若林 402(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6627/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6627",
+          "name": "レコルト若林 402(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6627/",
+          "price": 84000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:53:47"
+        }
+      ],
+      "price": 84000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 21.7,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-53.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/513515571.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/732807171.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1841530727.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/707454915.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/358284999.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/18501276.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/570424206.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/896306469.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1288128900.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-キャプチャ.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "3点ユニットバス",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "宅配ボックス",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区衣笠東御所ノ内町24-1",
+      "lat": 35.040195827467755,
+      "lng": 135.73448625487418,
+      "buildingId": "kyoto:00118",
+      "buildingName": "レコルト若林",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 7階建",
+      "constructionDate": "1995-03-01",
+      "accesses": [
+        {
+          "text": "市バス 金閣寺道停 徒歩1分",
+          "walkTime": 1
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:53:47",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:9170",
+      "canonicalId": "kyoto:9170",
+      "source": "kyoto",
+      "sourceId": "9170",
+      "name": "ハイツ紫明 302(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/9170/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "9170",
+          "name": "ハイツ紫明 302(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/9170/",
+          "price": 84000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:44:39"
+        }
+      ],
+      "price": 84000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 16.43,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/変換-～-P8045743.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080116-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080120-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080124-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080131-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080134-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080129-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080138-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080136-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080135-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1080150-scaled.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/901100000000471409_1.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "収納",
+        "インターネット（無料）",
+        "ＩＨコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区出雲路松ノ下町15-4",
+      "lat": 35.04136442549677,
+      "lng": 135.7625063116469,
+      "buildingId": "kyoto:00127",
+      "buildingName": "ハイツ紫明",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 3階建",
+      "constructionDate": "1985-12-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 鞍馬口駅 徒歩9分",
+          "walkTime": 9
+        },
+        {
+          "text": "地下鉄烏丸線 北大路駅 徒歩9分",
+          "walkTime": 9
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:44:39",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6623",
+      "canonicalId": "kyoto:6623",
+      "source": "kyoto",
+      "sourceId": "6623",
+      "name": "ローレル松ヶ崎 105(男性専用・禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6623/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6623",
+          "name": "ローレル松ヶ崎 105(男性専用・禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6623/",
+          "price": 87000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:19:36"
+        }
+      ],
+      "price": 87000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 27.36,
+      "capacity": 1,
+      "maxPeople": 1,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-294.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1229791126.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1219041615.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2073575865.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1530106911.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/552810696.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1414690747.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/477747576.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/41623621.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1780065567.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "男性専用",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市左京区松ヶ崎堀町18-1",
+      "lat": 35.05264713784582,
+      "lng": 135.78245907468832,
+      "buildingId": "kyoto:00211",
+      "buildingName": "ローレル松ヶ崎(男性専用)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 2階建",
+      "constructionDate": "2000-08-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 松ヶ崎駅 徒歩8分",
+          "walkTime": 8
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [
+        "賃料キャンペーン実施中\r\nショート期間（30日～89日）においては通常2,900円/日（87,000円/月）のところ\r\n2,800円/日（84,000円/月）へ減額キャンペーンを実施します。\r\n※再契約時は通常料金となります。"
+      ],
+      "updatedAt": "2026-10-30T17:19:36",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6967",
+      "canonicalId": "kyoto:6967",
+      "source": "kyoto",
+      "sourceId": "6967",
+      "name": "グランドパレス西大路 1004(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6967/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6967",
+          "name": "グランドパレス西大路 1004(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6967/",
+          "price": 87000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:04:37"
+        }
+      ],
+      "price": 87000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 23.8,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/グランドパレス西大路-1.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/487823479.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1849423188.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2052774829.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/620577058.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/997420965.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1718492964.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/529837097.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/184720937.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/782388842.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市南区吉祥院清水町32",
+      "lat": 34.9797996,
+      "lng": 135.7329855,
+      "buildingId": "kyoto:00802",
+      "buildingName": "グランドパレス西大路(04タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 10階建",
+      "constructionDate": "2006-01-01",
+      "accesses": [
+        {
+          "text": "JR京都線 西大路駅 徒歩2分",
+          "walkTime": 2
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:04:37",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6607",
+      "canonicalId": "kyoto:6607",
+      "source": "kyoto",
+      "sourceId": "6607",
+      "name": "AOI HOUSE 102(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6607/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6607",
+          "name": "AOI HOUSE 102(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6607/",
+          "price": 87000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:36:33"
+        }
+      ],
+      "price": 87000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 21.48,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/aoi.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050180.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050184.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050190.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050188.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050191.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050193.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050197.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-P1050195.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/774674714.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市左京区下鴨松原町22-1",
+      "lat": 35.0353917,
+      "lng": 135.7709355,
+      "buildingId": "kyoto:00214",
+      "buildingName": "AOI HOUSE",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 3階建",
+      "constructionDate": "1985-03-01",
+      "accesses": [
+        {
+          "text": "京阪本線 出町柳駅 徒歩8分",
+          "walkTime": 8
+        },
+        {
+          "text": "地下鉄烏丸線 鞍馬口駅 徒歩19分",
+          "walkTime": 19
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:36:33",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6681",
+      "canonicalId": "kyoto:6681",
+      "source": "kyoto",
+      "sourceId": "6681",
+      "name": "ハウスインゆりや 408(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6681/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6681",
+          "name": "ハウスインゆりや 408(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6681/",
+          "price": 87000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:41:18"
+        }
+      ],
+      "price": 87000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 17.96,
+      "capacity": 1,
+      "maxPeople": 1,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-411.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2117528544.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1368944233.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/519819339.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/561757381.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/787348118.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/28312607.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/23846304.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/264782989.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/ハウスインゆりや.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "バス・トイレ別",
+        "コインランドリー",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区二条通柳馬場東入晴明町663",
+      "lat": 35.01368511819504,
+      "lng": 135.76465002392524,
+      "buildingId": "kyoto:00554",
+      "buildingName": "ハウスインゆりや",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1983-05-01",
+      "accesses": [
+        {
+          "text": "地下鉄東西線 京都市役所前駅 徒歩11分",
+          "walkTime": 11
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:41:18",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:8790",
+      "canonicalId": "kyoto:8790",
+      "source": "kyoto",
+      "sourceId": "8790",
+      "name": "グランドパレス西大路 706(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/8790/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "8790",
+          "name": "グランドパレス西大路 706(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/8790/",
+          "price": 90000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:55:42"
+        }
+      ],
+      "price": 90000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 24.09,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/グランドパレス西大路.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1862958251.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/2059521017.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1433488986.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1853378916.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/163920972.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/709446531.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1439167932.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/544300404.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/237136515.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市南区吉祥院清水町32",
+      "lat": 34.9797996,
+      "lng": 135.7329855,
+      "buildingId": "kyoto:00802",
+      "buildingName": "グランドパレス西大路(06タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 10階建",
+      "constructionDate": "2006-01-01",
+      "accesses": [
+        {
+          "text": "JR京都線 西大路駅 徒歩2分",
+          "walkTime": 2
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:55:42",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:9515",
+      "canonicalId": "kyoto:9515",
+      "source": "kyoto",
+      "sourceId": "9515",
+      "name": "liens 101(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/9515/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "9515",
+          "name": "liens 101(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/9515/",
+          "price": 90000,
+          "initialCost": 0,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:43:28"
+        }
+      ],
+      "price": 90000,
+      "initialCost": 0,
+      "floorPlan": "1K",
+      "area": 20.95,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens3.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10111.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10110.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens1019.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10113.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10114.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10116-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens1011.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens10120.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens1015.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens1013.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/変換-～-Liens1012.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/08/101-1.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "駐車場（有料）",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市西京区桂上豆田町39-31",
+      "lat": 34.9839302956405,
+      "lng": 135.70269017844072,
+      "buildingId": "kyoto:01101",
+      "buildingName": "liens リアン(01)",
+      "buildingKind": "マンション",
+      "structure": "木造 2階建",
+      "constructionDate": "1999-09-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 桂駅 徒歩 ９分",
+          "walkTime": null
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [
+        "【期間限定】清掃料無料キャンペーン実施中！\r\n通常発生する清掃料が今だけ無料。\r\n初期費用を抑えたい方におすすめです。\r\nお得にご入居いただけるこの機会をお見逃しなく。\r\n※キャンペーンは予告なく終了する場合がございます。"
+      ],
+      "updatedAt": "2026-10-30T15:43:28",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:9643",
+      "canonicalId": "kyoto:9643",
+      "source": "kyoto",
+      "sourceId": "9643",
+      "name": "liens 102(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/9643/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "9643",
+          "name": "liens 102(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/9643/",
+          "price": 93000,
+          "initialCost": 0,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:42:58"
+        }
+      ],
+      "price": 93000,
+      "initialCost": 0,
+      "floorPlan": "1K",
+      "area": 23.31,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/変換-～-Liens3.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10211-1-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10212-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens1028-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens1026-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens1024-1-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens1027-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens1025-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10222-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10225-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10224-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/liens10223-scaled.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/10/102.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "駐車場（有料）",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市西京区桂上豆田町39-31",
+      "lat": 34.983923984325365,
+      "lng": 135.70266184068524,
+      "buildingId": "kyoto:01101",
+      "buildingName": "liens リアン(02)",
+      "buildingKind": "マンション",
+      "structure": "木造 2階建",
+      "constructionDate": "1999-09-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 桂駅 徒歩 ９分",
+          "walkTime": null
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [
+        "【期間限定】清掃料無料キャンペーン実施中！\r\n通常発生する清掃料が今だけ無料。\r\n初期費用を抑えたい方におすすめです。\r\nお得にご入居いただけるこの機会をお見逃しなく。\r\n※キャンペーンは予告なく終了する場合がございます。"
+      ],
+      "updatedAt": "2026-10-30T15:42:58",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:9516",
+      "canonicalId": "kyoto:9516",
+      "source": "kyoto",
+      "sourceId": "9516",
+      "name": "liens 103(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/9516/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "9516",
+          "name": "liens 103(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/9516/",
+          "price": 93000,
+          "initialCost": 0,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:43:15"
+        }
+      ],
+      "price": 93000,
+      "initialCost": 0,
+      "floorPlan": "1K",
+      "area": 20.78,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens3.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens10316.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens10315.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens10311.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens10317.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens10330.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens1037.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens1038.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens1035.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/変換-～-Liens1034.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/103号.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "駐車場（有料）",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市西京区桂上豆田町39-31",
+      "lat": 34.98406269902696,
+      "lng": 135.70263854592284,
+      "buildingId": "kyoto:01101",
+      "buildingName": "liens リアン(03)",
+      "buildingKind": "マンション",
+      "structure": "木造 2階建",
+      "constructionDate": "1999-09-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 桂駅 徒歩 ９分",
+          "walkTime": null
+        },
+        {
+          "text": "市バス 桂徳大寺 徒歩 ８分",
+          "walkTime": null
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [
+        "【期間限定】清掃料無料キャンペーン実施中！\r\n通常発生する清掃料が今だけ無料。\r\n初期費用を抑えたい方におすすめです。\r\nお得にご入居いただけるこの機会をお見逃しなく。\r\n※キャンペーンは予告なく終了する場合がございます。"
+      ],
+      "updatedAt": "2026-10-30T15:43:15",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6675",
+      "canonicalId": "kyoto:6675",
+      "source": "kyoto",
+      "sourceId": "6675",
+      "name": "ファーストフライトビル 501(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6675/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6675",
+          "name": "ファーストフライトビル 501(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6675/",
+          "price": 93000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:42:27"
+        }
+      ],
+      "price": 93000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 19.53,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-166.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1812765635.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1005600003.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1311171105.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1308374505.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/24723985.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2122764567.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1061013265.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1137382390.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "エレベーター",
+        "収納",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区四条通大宮西入錦大宮町115-3",
+      "lat": 35.00373230853519,
+      "lng": 135.74777585182642,
+      "buildingId": "kyoto:00522",
+      "buildingName": "ファーストフライトビル",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 7階建",
+      "constructionDate": "1988-04-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 大宮駅 徒歩1分",
+          "walkTime": 1
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:42:27",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6831",
+      "canonicalId": "kyoto:6831",
+      "source": "kyoto",
+      "sourceId": "6831",
+      "name": "マナーハウス B-411(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6831/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6831",
+          "name": "マナーハウス B-411(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6831/",
+          "price": 93000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:38:40"
+        }
+      ],
+      "price": 93000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 18.15,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/マナー.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/3-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/5-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/10-1-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/7-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1265759125.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/233177049.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/435592437.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/579629380.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/969117449.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/02/1320747638.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "デザイナーズ物件",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市東山区白川筋東川端三条下ル梅宮町484番地4",
+      "lat": 35.00739738997997,
+      "lng": 135.78010708093643,
+      "buildingId": "kyoto:00703",
+      "buildingName": "マナーハウス",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造地上4階地下1階建",
+      "constructionDate": "1996-01-01",
+      "accesses": [
+        {
+          "text": "地下鉄東西線 東山駅 徒歩3分",
+          "walkTime": 3
+        },
+        {
+          "text": "京阪本線 三条駅 徒歩8分",
+          "walkTime": 8
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:38:40",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:9696",
+      "canonicalId": "kyoto:9696",
+      "source": "kyoto",
+      "sourceId": "9696",
+      "name": "ヴィラ荒神口 107(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/9696/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "9696",
+          "name": "ヴィラ荒神口 107(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/9696/",
+          "price": 96000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:00:00"
+        }
+      ],
+      "price": 96000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 27.06,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/ヴィラ荒神口.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/20-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/15-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/22-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/24-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/26-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/25-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/9-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/14-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/13-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/10-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/01/11-scaled.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/11/図面.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "オートロック",
+        "収納",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市上京区宮垣町75",
+      "lat": 35.021639236942875,
+      "lng": 135.76870699975765,
+      "buildingId": "kyoto:00414",
+      "buildingName": "ヴィラ荒神口",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 3階建",
+      "constructionDate": "1989-07-01",
+      "accesses": [
+        {
+          "text": "京阪本線 神宮丸太町駅 徒歩10分",
+          "walkTime": 10
+        },
+        {
+          "text": "市バス 荒神口 徒歩2分",
+          "walkTime": 2
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:00:00",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6859",
+      "canonicalId": "kyoto:6859",
+      "source": "kyoto",
+      "sourceId": "6859",
+      "name": "ブランネージュ名川 203(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6859/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6859",
+          "name": "ブランネージュ名川 203(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6859/",
+          "price": 99000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:48:51"
+        }
+      ],
+      "price": 99000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 30.5,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-435.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-020-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-031-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-027-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/407035659.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-024-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/変換-～-032-scaled.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1301009369.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市下京区麩屋町通四条下ル八文字町352",
+      "lat": 35.00308500000001,
+      "lng": 135.765399,
+      "buildingId": "kyoto:00605",
+      "buildingName": "ブランネージュ名川",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1988-01-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 京都河原町駅 徒歩3分",
+          "walkTime": 3
+        },
+        {
+          "text": "京阪電車本線 祇園四条駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "地下鉄烏丸線 四条駅 徒歩7分",
+          "walkTime": 7
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:48:51",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6595",
+      "canonicalId": "kyoto:6595",
+      "source": "kyoto",
+      "sourceId": "6595",
+      "name": "あいのまちはうす 202(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6595/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6595",
+          "name": "あいのまちはうす 202(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6595/",
+          "price": 102000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:46:38"
+        }
+      ],
+      "price": 102000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 25.85,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/263811704.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/721035953.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1164474293.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/141212582.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1539316793.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/158867869.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1024946797.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/478420563.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1817156350.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1274456316.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "エレベーター",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区間之町通二条下る鍵屋町486",
+      "lat": 35.0127004663429,
+      "lng": 135.76182385059013,
+      "buildingId": "kyoto:00525",
+      "buildingName": "あいのまちはうす(west)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 5階建",
+      "constructionDate": "1989-03-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 烏丸御池駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "地下鉄東西線 烏丸御池駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩7分",
+          "walkTime": 7
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:46:38",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6887",
+      "canonicalId": "kyoto:6887",
+      "source": "kyoto",
+      "sourceId": "6887",
+      "name": "ハウスパティオ 103(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6887/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6887",
+          "name": "ハウスパティオ 103(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6887/",
+          "price": 102000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:41:28"
+        }
+      ],
+      "price": 102000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 24.5,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/ハウスパティオ.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2009458696.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2063178404.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/888993051.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2038421294.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2007053228.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/420623091.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/726779669.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1795517866.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1138303087.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "デザイナーズ物件",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市右京区西院矢掛町32",
+      "lat": 34.99972971582511,
+      "lng": 135.73037087917328,
+      "buildingId": "kyoto:00301",
+      "buildingName": "ハウスパティオ(03タイプ)",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1988-01-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 西院駅 徒歩6分",
+          "walkTime": 6
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:41:28",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6683",
+      "canonicalId": "kyoto:6683",
+      "source": "kyoto",
+      "sourceId": "6683",
+      "name": "プレサンス京都駅前II 1001(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6683/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6683",
+          "name": "プレサンス京都駅前II 1001(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6683/",
+          "price": 102000,
+          "initialCost": 13200,
+          "minStayDays": null,
+          "updatedAt": "2026-10-30T16:53:13"
+        }
+      ],
+      "price": 102000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 24.41,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/プレサンス京都駅前Ⅱ.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/847779944-2.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/15879273-2.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/298967646-2.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1593866690.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/05/変換-～-S__4726787.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/551386736.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/263419205.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1398936335.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1953334996-2.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市下京区東塩小路町６８４",
+      "lat": 34.98706494574219,
+      "lng": 135.76239662244916,
+      "buildingId": "kyoto:00636",
+      "buildingName": "プレサンス京都駅前II",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 11階建",
+      "constructionDate": "2001-03-01",
+      "accesses": [
+        {
+          "text": "JR京都線 京都駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "地下鉄烏丸線 京都駅 徒歩5分",
+          "walkTime": 5
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:53:13",
+      "nextUpdateDate": null,
+      "minStayDays": null,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6936",
+      "canonicalId": "kyoto:6936",
+      "source": "kyoto",
+      "sourceId": "6936",
+      "name": "SOMビル 311(喫煙可)",
+      "url": "https://monthly-kyoto.com/room/6936/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6936",
+          "name": "SOMビル 311(喫煙可)",
+          "url": "https://monthly-kyoto.com/room/6936/",
+          "price": 102000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:41:16"
+        }
+      ],
+      "price": 102000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 23,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/フラットエージェンシー様-378.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/539693853-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1077805675-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1801182303-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1092574533-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/584952102-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1166627075-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1676930321-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1498526546-1.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/170738613-1.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "喫煙可",
+        "デザイナーズ物件",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市右京区西院矢掛町32",
+      "lat": 34.99972312439206,
+      "lng": 135.7305184006691,
+      "buildingId": "kyoto:00302",
+      "buildingName": "SOMビル",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 4階建",
+      "constructionDate": "1990-01-01",
+      "accesses": [
+        {
+          "text": "阪急京都線 西院駅 徒歩6分",
+          "walkTime": 6
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:41:16",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6594",
+      "canonicalId": "kyoto:6594",
+      "source": "kyoto",
+      "sourceId": "6594",
+      "name": "あいのまちはうす 207(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6594/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6594",
+          "name": "あいのまちはうす 207(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6594/",
+          "price": 105000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:46:52"
+        }
+      ],
+      "price": 105000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 30.99,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/263811704.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/542200144.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1502503609.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/595410147.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/368365819.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/632063071.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/176876123.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2024530328.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2088675508.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/10/767008219.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "エレベーター",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区間之町通二条下る鍵屋町486",
+      "lat": 35.01270170640835,
+      "lng": 135.7620227951065,
+      "buildingId": "kyoto:00525",
+      "buildingName": "あいのまちはうす(east)",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 5階建",
+      "constructionDate": "1989-03-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 烏丸御池駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "地下鉄東西線 烏丸御池駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩7分",
+          "walkTime": 7
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:46:52",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6858",
+      "canonicalId": "kyoto:6858",
+      "source": "kyoto",
+      "sourceId": "6858",
+      "name": "プチセゾン 101(喫煙可)",
+      "url": "https://monthly-kyoto.com/room/6858/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6858",
+          "name": "プチセゾン 101(喫煙可)",
+          "url": "https://monthly-kyoto.com/room/6858/",
+          "price": 108000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:51:18"
+        }
+      ],
+      "price": 108000,
+      "initialCost": 26400,
+      "floorPlan": "2DK",
+      "area": 39.55,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/プチ.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2115127940.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/180583638.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/228525985.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/231351023.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/769653039.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1395669835.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/883622159.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1888975984.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2112789782.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "喫煙可",
+        "ファミリー向け",
+        "幼児可",
+        "外国人可",
+        "バス・トイレ別",
+        "駐車場（有料）",
+        "駐車場",
+        "収納",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区西賀茂南川上町59-4",
+      "lat": 35.06418857920194,
+      "lng": 135.74191331690403,
+      "buildingId": "kyoto:00109",
+      "buildingName": "プチセゾン",
+      "buildingKind": "マンション",
+      "structure": "木質パネル構造 2階建",
+      "constructionDate": "1988-09-01",
+      "accesses": [
+        {
+          "text": "市バス 西賀茂車庫停 徒歩3分",
+          "walkTime": 3
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:51:18",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6727",
+      "canonicalId": "kyoto:6727",
+      "source": "kyoto",
+      "sourceId": "6727",
+      "name": "西九条院町貸家(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6727/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6727",
+          "name": "西九条院町貸家(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6727/",
+          "price": 111000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:05:54"
+        }
+      ],
+      "price": 111000,
+      "initialCost": 26400,
+      "floorPlan": "4K",
+      "area": 52.24,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/西九条.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1229397387.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1172625539.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/592903833.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1675937193.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2038266247.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/33262223.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1608513533.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/225423997.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/64853446.jpg"
+      ],
+      "tags": [
+        "禁煙室あり",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エアコン",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市南区西九条院町22-42",
+      "lat": 34.982839,
+      "lng": 135.75651949999997,
+      "buildingId": "kyoto:00805",
+      "buildingName": "西九条院町貸家",
+      "buildingKind": "一戸建て",
+      "structure": "木造 2階建",
+      "constructionDate": "1959-08-01",
+      "accesses": [
+        {
+          "text": "JR京都線 京都駅 徒歩5分",
+          "walkTime": 5
+        },
+        {
+          "text": "近鉄京都線 京都駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "地下鉄烏丸線 京都駅 徒歩6分",
+          "walkTime": 6
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:05:54",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6797",
+      "canonicalId": "kyoto:6797",
+      "source": "kyoto",
+      "sourceId": "6797",
+      "name": "ロワール山ノ森 102(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6797/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6797",
+          "name": "ロワール山ノ森 102(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6797/",
+          "price": 114000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T15:52:57"
+        }
+      ],
+      "price": 114000,
+      "initialCost": 26400,
+      "floorPlan": "2LDK",
+      "area": 49.68,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/10/変換-～-LINE_ALBUM_ロワール山の森202-食器棚_260928_1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/10/変換-～-LINE_ALBUM_ロワール山の森202-食器棚_260928_2.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2026/10/変換-～-LINE_ALBUM_ロワール山の森202-食器棚_260928_3.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2060548405.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/814736446.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1221874237.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/29123651.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/249804882.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1056696801.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/784088449.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "ファミリー向け",
+        "幼児可",
+        "外国人可",
+        "バス・トイレ別",
+        "駐車場（有料）",
+        "駐車場",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市北区西賀茂山ノ森町16",
+      "lat": 35.0661944,
+      "lng": 135.7444918,
+      "buildingId": "kyoto:00117",
+      "buildingName": "ロワール山ノ森",
+      "buildingKind": "マンション",
+      "structure": "木造 2階建",
+      "constructionDate": "1993-06-01",
+      "accesses": [
+        {
+          "text": "市バス 西賀茂車庫前 徒歩4分",
+          "walkTime": 4
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T15:52:57",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6915",
+      "canonicalId": "kyoto:6915",
+      "source": "kyoto",
+      "sourceId": "6915",
+      "name": "二条ハイツ 303(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6915/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6915",
+          "name": "二条ハイツ 303(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6915/",
+          "price": 114000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:39:20"
+        }
+      ],
+      "price": 114000,
+      "initialCost": 26400,
+      "floorPlan": "2LDK",
+      "area": 46,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-218-2.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1022685830.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2033729621.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1719122167.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1227034790.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1694738513.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1260386923.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2133559156.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1742121960.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1856521800.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1329516951.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "ファミリー向け",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "3点ユニットバス",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区二条通東洞院西入仁王門町18",
+      "lat": 35.01352688373306,
+      "lng": 135.76038532878422,
+      "buildingId": "kyoto:00505",
+      "buildingName": "二条ハイツ2LDK",
+      "buildingKind": "マンション",
+      "structure": "鉄骨造 4階建",
+      "constructionDate": "1982-06-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 烏丸御池駅 徒歩6分",
+          "walkTime": 6
+        },
+        {
+          "text": "地下鉄東西線 烏丸御池駅 徒歩6分",
+          "walkTime": 6
+        },
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩6分",
+          "walkTime": 6
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:39:20",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6984",
+      "canonicalId": "kyoto:6984",
+      "source": "kyoto",
+      "sourceId": "6984",
+      "name": "奥田河原町ビル 502(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6984/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6984",
+          "name": "奥田河原町ビル 502(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6984/",
+          "price": 114000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:01:05"
+        }
+      ],
+      "price": 114000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 18.6,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-84.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1003685346.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1612202808.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2019874609.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1883143070.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/616442703.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/2118412765.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1604214082.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/412458446.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/289661698.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市上京区河原町丸太町上ル桝屋町368-9",
+      "lat": 35.018172662809945,
+      "lng": 135.76893031597137,
+      "buildingId": "kyoto:00410",
+      "buildingName": "奥田河原町ビル",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 6階建",
+      "constructionDate": "1997-08-01",
+      "accesses": [
+        {
+          "text": "京阪本線 神宮丸太町駅 徒歩3分",
+          "walkTime": 3
+        },
+        {
+          "text": "地下鉄烏丸線 丸太町駅 徒歩12分",
+          "walkTime": 12
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:01:05",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6602",
+      "canonicalId": "kyoto:6602",
+      "source": "kyoto",
+      "sourceId": "6602",
+      "name": "アスティオン 210(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6602/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6602",
+          "name": "アスティオン 210(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6602/",
+          "price": 117000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T17:37:15"
+        }
+      ],
+      "price": 117000,
+      "initialCost": 26400,
+      "floorPlan": "3DK",
+      "area": 46.36,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-273.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1881261716.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1545598964.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/22745.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1417174716.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/2035021532.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/508734999.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/590425214.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1334010803.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/11/1900993482.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "ファミリー向け",
+        "幼児可",
+        "外国人可",
+        "バス・トイレ別",
+        "駐車場",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市左京区岩倉長谷町250-1",
+      "lat": 35.0787073,
+      "lng": 135.7908517,
+      "buildingId": "kyoto:00236",
+      "buildingName": "アスティオン",
+      "buildingKind": "マンション",
+      "structure": "",
+      "constructionDate": "1995-02-01",
+      "accesses": [
+        {
+          "text": "叡山電鉄鞍馬線 岩倉駅 徒歩17分",
+          "walkTime": 17
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T17:37:15",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:7024",
+      "canonicalId": "kyoto:7024",
+      "source": "kyoto",
+      "sourceId": "7024",
+      "name": "エイペックス京都駅前 503(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/7024/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "7024",
+          "name": "エイペックス京都駅前 503(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/7024/",
+          "price": 117000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:48:02"
+        }
+      ],
+      "price": 117000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 27.49,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/変換-～-DSCN9986-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9653-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9652-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9647-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9648-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9646-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9645-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9654-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/IMG_9642-scaled.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1776024935.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "幼児可",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ガスコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "浴室乾燥機",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市下京区七条通間之町東入材木町482",
+      "lat": 34.9894058385979,
+      "lng": 135.76295940087496,
+      "buildingId": "kyoto:00613",
+      "buildingName": "エイペックス京都駅前(03)",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 11階建",
+      "constructionDate": "2007-03-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 京都駅 徒歩7分",
+          "walkTime": 7
+        },
+        {
+          "text": "JR京都線 京都駅 徒歩7分",
+          "walkTime": 7
+        },
+        {
+          "text": "京阪電車本線 七条駅 徒歩5分",
+          "walkTime": 5
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:48:02",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6686",
+      "canonicalId": "kyoto:6686",
+      "source": "kyoto",
+      "sourceId": "6686",
+      "name": "エスリード京都河原町803(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6686/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6686",
+          "name": "エスリード京都河原町803(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6686/",
+          "price": 123000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:52:41"
+        }
+      ],
+      "price": 123000,
+      "initialCost": 13200,
+      "floorPlan": "1DK",
+      "area": 30.72,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2026/07/エスリード京都河原町.png",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/502141315.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/2052160896.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/250989350.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1103484870.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/503281353.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/574050281.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/727924644.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/480980492.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/311226841.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市下京区寺町通松原下る植松町739-2",
+      "lat": 34.9977432,
+      "lng": 135.76727400000004,
+      "buildingId": "kyoto:00624",
+      "buildingName": "エスリード京都河原町",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 11階建",
+      "constructionDate": "1996-05-01",
+      "accesses": [
+        {
+          "text": "京阪電車本線 清水五条駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "阪急京都線 京都河原町駅 徒歩9分",
+          "walkTime": 9
+        },
+        {
+          "text": "地下鉄烏丸線 五条駅 徒歩10分",
+          "walkTime": 10
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:52:41",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6790",
+      "canonicalId": "kyoto:6790",
+      "source": "kyoto",
+      "sourceId": "6790",
+      "name": "アストロプラザII 302(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6790/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6790",
+          "name": "アストロプラザII 302(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6790/",
+          "price": 126000,
+          "initialCost": 26400,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:01:44"
+        }
+      ],
+      "price": 126000,
+      "initialCost": 26400,
+      "floorPlan": "1LDK",
+      "area": 42.66,
+      "capacity": 4,
+      "maxPeople": 4,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/09/フラットエージェンシー様-90.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1127462433.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/857126453.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/37845004.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/761706737.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1442556053.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/857184217.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/874633669.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/99599745.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1763811126.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "禁煙室あり",
+        "ファミリー向け",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市上京区上立売通新町西入西大路町74-4",
+      "lat": 35.032303,
+      "lng": 135.75571309999998,
+      "buildingId": "kyoto:00420",
+      "buildingName": "アストロプラザII",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 3階建",
+      "constructionDate": "1992-08-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 今出川駅 徒歩7分",
+          "walkTime": 7
+        },
+        {
+          "text": "地下鉄烏丸線 鞍馬口駅 徒歩11分",
+          "walkTime": 11
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:01:44",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6970",
+      "canonicalId": "kyoto:6970",
+      "source": "kyoto",
+      "sourceId": "6970",
+      "name": "クリサンセマム 208(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6970/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6970",
+          "name": "クリサンセマム 208(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6970/",
+          "price": 132000,
+          "initialCost": 13200,
+          "minStayDays": 30,
+          "updatedAt": "2026-10-30T16:37:32"
+        }
+      ],
+      "price": 132000,
+      "initialCost": 13200,
+      "floorPlan": "1K",
+      "area": 28.31,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/変換-～-IMG_8501-scaled.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/365802622.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/139845681.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1897848502.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1564888976.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1155045033.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1356483958.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/4661320.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/1385627658.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/01/391827387.jpg"
+      ],
+      "tags": [
+        "長期割引あり",
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "外国人可",
+        "駅から徒歩10分",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "浴室乾燥機",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市中京区堺町通四条上る八百屋町546",
+      "lat": 35.00444469629527,
+      "lng": 135.76359124696378,
+      "buildingId": "kyoto:00509",
+      "buildingName": "クリサンセマム1K",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 5階建",
+      "constructionDate": "2011-03-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 四条駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "阪急京都線 烏丸駅 徒歩4分",
+          "walkTime": 4
+        },
+        {
+          "text": "京阪電車本線 祇園四条駅 徒歩9分",
+          "walkTime": 9
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:37:32",
+      "nextUpdateDate": null,
+      "minStayDays": 30,
+      "prefecture": "kyoto"
+    },
+    {
+      "id": "kyoto:6630",
+      "canonicalId": "kyoto:6630",
+      "source": "kyoto",
+      "sourceId": "6630",
+      "name": "京都アートステイ西陣捨松101(禁煙室)",
+      "url": "https://monthly-kyoto.com/room/6630/",
+      "offers": [
+        {
+          "source": "kyoto",
+          "sourceId": "6630",
+          "name": "京都アートステイ西陣捨松101(禁煙室)",
+          "url": "https://monthly-kyoto.com/room/6630/",
+          "price": 135000,
+          "initialCost": 26400,
+          "minStayDays": 7,
+          "updatedAt": "2026-10-30T16:21:40"
+        }
+      ],
+      "price": 135000,
+      "initialCost": 26400,
+      "floorPlan": "1K",
+      "area": 39.24,
+      "capacity": 2,
+      "maxPeople": 2,
+      "images": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/07/フラットエージェンシー様-188-1.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/57472488.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/32022135.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/169830997.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1638099837.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/1490773166.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/418836979.jpg",
+        "https://monthly-kyoto.com/wp-content/uploads/2024/12/917903723.jpg"
+      ],
+      "floorPlanImages": [
+        "https://monthly-kyoto.com/wp-content/uploads/2025/06/無題-3.jpg"
+      ],
+      "tags": [
+        "コンビニ徒歩5分",
+        "禁煙室あり",
+        "デザイナーズ物件",
+        "幼児可",
+        "外国人可",
+        "バス・トイレ別",
+        "エレベーター",
+        "オートロック",
+        "収納",
+        "インターネット（無料）",
+        "エアコン",
+        "ＩＨコンロ",
+        "ベランダ",
+        "温水洗浄トイレ",
+        "駐輪場",
+        "テレビ",
+        "冷蔵庫",
+        "電子レンジ",
+        "オーブンレンジ",
+        "炊飯器",
+        "洗濯機",
+        "掃除機",
+        "電気ケトル",
+        "ドライヤー",
+        "家具家電付き"
+      ],
+      "address": "京都府京都市上京区笹屋町一丁目525番地1",
+      "lat": 35.02830318675552,
+      "lng": 135.74659714811006,
+      "buildingId": "kyoto:00401",
+      "buildingName": "京都アートステイ西陣捨松",
+      "buildingKind": "マンション",
+      "structure": "鉄筋コンクリート造 5階建",
+      "constructionDate": "2018-02-01",
+      "accesses": [
+        {
+          "text": "地下鉄烏丸線 今出川駅 徒歩15分",
+          "walkTime": 15
+        },
+        {
+          "text": "市バス 堀川今出川停 徒歩 9 分",
+          "walkTime": 9
+        }
+      ],
+      "companyTel": null,
+      "campaigns": [],
+      "updatedAt": "2026-10-30T16:21:40",
+      "nextUpdateDate": null,
+      "minStayDays": 7,
+      "prefecture": "kyoto"
+    }
+  ]
+}
